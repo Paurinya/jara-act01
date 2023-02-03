@@ -11,9 +11,6 @@ $ git config --global user.email
 paulajara@ginebro.cat
 
 jarad@Paula MINGW64 ~
-$ git config --global user.name paurinya
-
-jarad@Paula MINGW64 ~
 $ git config --global user.name "paurinya"
 
 jarad@Paula MINGW64 ~
